@@ -1,0 +1,18 @@
+Cookie Manager: "Don't allow sites that set removed cookies to set future cookies" should stay checked
+When in full screen mode
+Pressing Ctrl-N should open a new browser when only download dialog is left open
+add icons to context menu
+So called "tab bar" should be made a proper toolbar or given the ability collapse / expand.
+[XUL] Implement Cocoa-style toolbar customization.
+#ifdefs for MOZ_PHOENIX
+customize dialog's toolbar has small icons when small icons is not checked
+nightly builds and tinderboxen for Phoenix
+finish tearing prefs UI to pieces and then make it not suck
+"mozbrowser" script doesn't start correct binary
+Need bookmark groups icon
+Dropping at top of palette box horks things
+keyboard shortcut for Increase Text Size is broken
+default phoenix bookmarks
+[cust] need a toolbar spacer and spring spacer for customize
+Can't launch phoenix while Mozilla is running (or vice versa)
+separator not available when all toolbar items are in toolbar layout
